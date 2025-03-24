@@ -213,7 +213,7 @@ const Dashboard = () => {
                 <QuickActionButton
                   icon={<Video className="w-5 h-5" />} // Added Video icon
                   label="Video Call"
-                  onClick={() => window.open("https://hearttohear-frontend.onrender.com/#/", "_blank")}
+                  onClick={() => window.open("//replace your video call url//", "_blank")}
                 />
               </div>
             </div>
